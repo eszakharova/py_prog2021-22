@@ -11,11 +11,11 @@
 # План занятий
 | № | Тема                                                                            | Дата | Материалы |
 |---|---------------------------------------------------------------------------------|------|-----------|
-| 1 | Области видимости, пространство имен, передача аргументов в функцию, декораторы | 12 января 2022   |[часть 1](https://github.com/eszakharova/py_prog2021-22/blob/main/lectures/01_1.ipynb), [часть 2](https://github.com/eszakharova/py_prog2021-22/blob/main/lectures/01_2.ipynb)        |
-| 2 | Классы, объекты. Конструктор и деструктор, сборщик мусора                       |      |           |
-| 3 | Инкапсуляция, наследование, полиморфизм, @property                              |      |           |
-| 4 | Итераторы и генераторы, исключения                                              |      |           |
-| 5 | Подробнее про наследование, super                                               |      |           |
+| 1 | Области видимости, пространство имен, передача аргументов в функцию, декораторы | 12 января 2022 очно |[часть 1](https://github.com/eszakharova/py_prog2021-22/blob/main/lectures/01_1.ipynb), [часть 2](https://github.com/eszakharova/py_prog2021-22/blob/main/lectures/01_2.ipynb), [сделанная часть 1](https://github.com/eszakharova/py_prog2021-22/blob/main/lectures/01_1_done.ipynb) [сделанная часть 2](https://github.com/eszakharova/py_prog2021-22/blob/main/lectures/01_2_done.ipynb), [запись пары ч1](https://drive.google.com/file/d/1s_H5y8e4XIKQ3UXAB8ZOyZILeqerRAwT/view?usp=sharing), [запись пары ч2](https://drive.google.com/file/d/1c-KGK5rf-_jgtWB4WhJ7oVsLlw2XGiwX/view?usp=sharing)      |
+| 2 | Классы, объекты. Конструктор и деструктор, сборщик мусора                       | 19 января 2022 очно     |           |
+| 3 | Инкапсуляция, наследование, полиморфизм, @property                              | 26 января 2022     |           |
+| 4 | Итераторы и генераторы, исключения                                              | 2 февраля 2022     |           |
+| 5 | Подробнее про наследование, super                                               | 9 февраля 2022     |           |
 | 6 |                                                                                 |      |           |
 | 7 |                                                                                 |      |           |
 | 8 |                                                                                 |      |           |
