@@ -26,7 +26,7 @@
 # Домашние задания
 | №            | Тема                      | Дедлайн | Ссылка | Вес               | Оценки |
 |--------------|---------------------------|---------|--------|-------------------|--------|
-| 1            | Декораторы, args и kwargs |   28 янв 2022, 00:29:00 |  https://official.contest.yandex.ru/contest/34608/enter  | 0.1               |        |
+| 1            | Декораторы, args и kwargs |   28 янв 2022, 00:29:00 |  https://official.contest.yandex.ru/contest/34608/enter  | 0.1               |  [здесь](https://docs.google.com/spreadsheets/d/17qYSwz8zlgt5yqmU74FDZ1OB22QuJsmwX6XhqnIw5hw/edit#gid=1297722930)      |
 | 2            | Классы, наследование, исключения, перегрузка операторов |  12 фев 2022, 00:29:00 | https://official.contest.yandex.ru/contest/34803/enter/       | 0.2 |        |
 | 3            |                           |         |        | 0.1               |        |
 | 4            |                           |         |        | 0.1               |        |
