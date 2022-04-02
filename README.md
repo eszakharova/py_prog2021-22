@@ -22,16 +22,17 @@
 | 9 |  Тестирование                                                                               | 16 марта 2022 очно      | [тетрадка](https://github.com/eszakharova/py_prog2021-22/blob/main/lectures/09.ipynb), [сделанная тетрадка](https://github.com/eszakharova/py_prog2021-22/blob/main/lectures/09_done.ipynb), запись пары [ч1](https://drive.google.com/file/d/1LiN1Q8OgEH-MLiCiuKSL_dK-Qc8PFtmq/view?usp=sharing), [ч2](https://drive.google.com/file/d/1EgJrqsWp8_UTs4dVMgfwV7wBvAmHfabY/view?usp=sharing)           |
 | 10 |  Тестирование                                                                             | 23 марта 2022 очно       |  [тетрадка](https://github.com/eszakharova/py_prog2021-22/blob/main/lectures/10.ipynb), [сделанная тетрадка](https://github.com/eszakharova/py_prog2021-22/blob/main/lectures/10_done.ipynb), запись пары [ч1](https://drive.google.com/file/d/1_3P084QymKrO76ILjbRodSdHr50swjHn/view?usp=sharing), [ч2](https://drive.google.com/file/d/1xfwsmBJIp6kWrOatkb2n5sAY8fjCy7ej/view?usp=sharing)          |
 | 11 |  Консультация перед кр                                                                              | ?     |           |
+| 12 |  КР                                                                              | ?     |           |
 
 # Домашние задания
 | №            | Тема                      | Дедлайн | Ссылка | Вес               | Оценки |
 |--------------|---------------------------|---------|--------|-------------------|--------|
 | 1            | Декораторы, args и kwargs |   28 янв 2022, 00:29:00 |  https://official.contest.yandex.ru/contest/34608/enter  | 0.1               |  [здесь](https://docs.google.com/spreadsheets/d/17qYSwz8zlgt5yqmU74FDZ1OB22QuJsmwX6XhqnIw5hw/edit#gid=1297722930)      |
-| 2            | Классы, наследование, исключения, перегрузка операторов |  12 фев 2022, 00:29:00 | https://official.contest.yandex.ru/contest/34803/enter/       | 0.2 |        | 
-| 3            | Наследование, классы, атрибуты, итераторы.                          |  26 фев 2022, 00:29:00 | https://official.contest.yandex.ru/contest/35591/enter/        | 0.1               |        |
-| 4            |                           |         |        | 0.1               |        |
-| 5            |                           |         |        | 0.2               |        |
-| 6 (Бонусное) |                           |         |        | 5 бонусных баллов |        |
+| 2            | Классы, наследование, исключения, перегрузка операторов |  12 фев 2022, 00:29:00 | https://official.contest.yandex.ru/contest/34803/enter/       | 0.2 |  [здесь](https://docs.google.com/spreadsheets/d/17qYSwz8zlgt5yqmU74FDZ1OB22QuJsmwX6XhqnIw5hw/edit#gid=250016231)      | 
+| 3            | Наследование, классы, атрибуты, итераторы.                          |  26 фев 2022, 00:29:00 | https://official.contest.yandex.ru/contest/35591/enter/        | 0.1               |  [здесь](https://docs.google.com/spreadsheets/d/17qYSwz8zlgt5yqmU74FDZ1OB22QuJsmwX6XhqnIw5hw/edit#gid=737611010)      |
+| 4            |   Метаклассы, датаклассы, абстрактные классы    |  10 апр 2022, 00:30:00  |   https://official.contest.yandex.ru/contest/36799/enter/      | 0.1               |        |
+| 5            |  Тестирование                         |         |        | 0.2               |        |
+| 6 (Бонусное) |   По всем темам курса                        |         |        | 5 бонусных баллов |        |
 
 # Оценивание 
 **Формы контроля:**
