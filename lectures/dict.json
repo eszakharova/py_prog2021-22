@@ -3,7 +3,7 @@
     {
       "lemma": "go",
       "pos": "verb",
-      "inflected": [
+      "forms": [
         "went",
         "gone"
       ]
@@ -11,7 +11,7 @@
     {
       "lemma": "be",
       "pos": "verb",
-      "inflected": [
+      "forms": [
         "was",
         "were",
         "been"
