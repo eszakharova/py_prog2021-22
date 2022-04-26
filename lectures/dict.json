@@ -1,0 +1,21 @@
+{
+  "words": [
+    {
+      "lemma": "go",
+      "pos": "verb",
+      "inflected": [
+        "went",
+        "gone"
+      ]
+    },
+    {
+      "lemma": "be",
+      "pos": "verb",
+      "inflected": [
+        "was",
+        "were",
+        "been"
+      ]
+    }
+  ]
+}
